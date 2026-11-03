@@ -12,26 +12,26 @@ I particularly enjoy projects that bring these different sides together: **stron
 
 ## Selected work
 
-### 🧠 ExitSafe
+### 🧠 [ExitSafe](https://github.com/lcuencap/exitsafe-case-study)
 
 Product discovery and solution design around a simple question: how can we reduce the uncertainty people sometimes feel after leaving home?
 
-### ⚙️ maninScript Compiler
+### ⚙️ [maninScript Compiler](https://github.com/lcuencap/maninscript-compiler)
 
 A compiler for a custom programming language covering lexical analysis, recursive-descent parsing, semantic analysis, intermediate representation and MIPS code generation.
 
-### 🔬 Cross-Modal Knowledge Distillation
+### 🔬 [Cross-Modal Knowledge Distillation](https://github.com/lcuencap/cross-modal-distillation-research)
 
 Exploratory research into how knowledge can be transferred between models operating on different modalities, with a focus on computer vision.
 
-### 🌳 Advanced Data Structures
+### 🌳 [Advanced Data Structures](https://github.com/lcuencap/advanced-data-structures)
 
 Implementation and application of graphs, shortest-path algorithms, binary search trees, R-trees and custom hash tables.
 
-### 📟 STM32 Basic Oscilloscope
+### 📟 [STM32 Basic Oscilloscope](https://github.com/lcuencap/stm32-basic-oscilloscope)
 
 A two-channel embedded oscilloscope using ADC, DMA, encoder synchronization, signal processing and TFT visualization.
 
-### 🦇 Distributed File Processing System
+### 🦇 [Distributed File Processing System](https://github.com/lcuencap/c-distributed-file-processing-batman)
 
 A distributed system written in C using TCP communication, processes, threads, shared memory and a custom communication protocol.
