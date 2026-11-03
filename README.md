@@ -6,7 +6,7 @@ My main technical interests are **compilers, computer architecture, algorithms a
 
 Beyond the technical side, I have a strong interest in **psychology and human behavior**. Empathy and communication are some of the strengths I bring to projects, especially when it comes to understanding users, uncovering their real needs and translating between different perspectives.
 
-I'm especially interested in applying technology to areas that can meaningfully improve people's lives and environments! Particularly **preventive and holistic health, women's health, regenerative cities, healthier built environments and more human-centered ways of living**.
+I'm especially interested in applying technology to areas that can meaningfully improve people's lives and environments. Particularly **preventive and holistic health, women's health, regenerative cities, healthier built environments and more human-centered ways of living**.
 
 I particularly enjoy projects that bring these different sides together: **strong technical foundations, systems thinking, product thinking and a deep understanding of the people a solution is meant for**.
 
